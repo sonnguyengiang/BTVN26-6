@@ -1,3 +1,5 @@
+package main.fail;
+
 public class SDTFail extends Exception{
     @Override
     public String getMessage() {

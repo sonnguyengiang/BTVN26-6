@@ -1,3 +1,5 @@
+package main.fail;
+
 public class EmailFail extends Exception{
     @Override
     public String getMessage() {

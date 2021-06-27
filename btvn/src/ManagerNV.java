@@ -1,3 +1,8 @@
+import main.fail.AgeFail;
+import main.fail.EmailFail;
+import main.fail.GenderFail;
+import main.fail.SDTFail;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
